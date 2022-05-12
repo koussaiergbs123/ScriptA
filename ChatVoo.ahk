@@ -12,7 +12,6 @@ Return
 ::AYS::Are you sure about that?
 ::AFAIK::As far as I know
 ::HTH::Hope this helps
-::Hi::Hi buddy!, how it is going?
 ::INSH::I need some help here!
 ::AFK::Away from keyboard
 ::BRB::Be right back
